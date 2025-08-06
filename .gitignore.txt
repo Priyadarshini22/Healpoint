@@ -1,22 +1,22 @@
-# Ignore node_modules (React)
+# React (Frontend)
 **/node_modules/
 **/build/
 **/dist/
 
-# Ignore logs
+# Logs
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# Ignore environment files
+# Environment files
 .env
 .env.*.local
 
-
-# Windows system files
-Thumbs.db
+# System files
+.DS_Store           # macOS
+Thumbs.db           # Windows
 ehthumbs.db
 Desktop.ini
 
@@ -28,11 +28,11 @@ Desktop.ini
 **/*.userosscache
 **/*.sln.docstates
 .vs/
+**/.vs/       
 *.dbmdl
 *.bak
 *.db
-*.log
 
-# ASP.NET config secrets
+# ASP.NET app secrets and configs
 appsettings.Development.json
 appsettings.*.json
