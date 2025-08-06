@@ -1,0 +1,38 @@
+# Ignore node_modules (React)
+**/node_modules/
+**/build/
+**/dist/
+
+# Ignore logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Ignore environment files
+.env
+.env.*.local
+
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Visual Studio / .NET build output
+**/bin/
+**/obj/
+**/*.user
+**/*.suo
+**/*.userosscache
+**/*.sln.docstates
+.vs/
+*.dbmdl
+*.bak
+*.db
+*.log
+
+# ASP.NET config secrets
+appsettings.Development.json
+appsettings.*.json
