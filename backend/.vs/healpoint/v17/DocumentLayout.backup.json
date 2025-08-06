@@ -29,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 143,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Document",
@@ -43,19 +43,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T06:24:50.957Z",
               "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".gitignore.txt",
-              "DocumentMoniker": "C:\\Users\\Priyadarshani\\Downloads\\Healpoint\\.gitignore.txt",
-              "RelativeDocumentMoniker": "..\\.gitignore.txt",
-              "ToolTip": "C:\\Users\\Priyadarshani\\Downloads\\Healpoint\\.gitignore.txt",
-              "RelativeToolTip": "..\\.gitignore.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-06T17:47:06.957Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -106,6 +93,27 @@
               "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\Downloads\\Healpoint\\.gitignore.txt",
+              "RelativeDocumentMoniker": "..\\.gitignore.txt",
+              "ToolTip": "C:\\Users\\Priyadarshani\\Downloads\\Healpoint\\.gitignore.txt",
+              "RelativeToolTip": "..\\.gitignore.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-06T17:47:06.957Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "LoginResponseDTO.cs",
@@ -125,7 +133,7 @@
               "RelativeDocumentMoniker": "healpoint\\Services\\TokenService.cs",
               "ToolTip": "C:\\Users\\Priyadarshani\\Downloads\\Healpoint\\backend\\healpoint\\Services\\TokenService.cs",
               "RelativeToolTip": "healpoint\\Services\\TokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T06:20:56.709Z",
               "EditorCaption": ""
@@ -141,14 +149,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T06:20:23.559Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         },
