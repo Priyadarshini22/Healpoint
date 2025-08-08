@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("healpoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+249fb8491a847fab504682b12ba0a09d051f6f7f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce7b80b884575d1ba43e93c06d387b42c59bbe37")]
 [assembly: System.Reflection.AssemblyProductAttribute("healpoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("healpoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
